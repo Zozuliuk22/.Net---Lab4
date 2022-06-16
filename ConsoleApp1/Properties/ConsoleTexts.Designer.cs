@@ -98,7 +98,7 @@ namespace Application.Properties {
         ///   Looks up a localized string similar to 1 - Just choose items +0%
         ///2 - Assemble a system block +15%
         ///3 - Make a full set +5%
-        ///4 - Add a packaging +3%.
+        ///4 - Add a packaging +250 UAH.
         /// </summary>
         internal static string ServicesDefault {
             get {

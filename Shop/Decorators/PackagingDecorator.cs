@@ -6,7 +6,7 @@
 
         public override decimal CalculatePrice()
         {
-            return Order.CalculatePrice() * 1.03m;
+            return Order.CalculatePrice() + 250;
         }
     }
 }
